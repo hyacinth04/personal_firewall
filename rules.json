@@ -1,0 +1,6 @@
+{
+  "blocked_ips": ["8.8.8.8"],
+  "blocked_ports": [80],
+  "block_protocols": ["ICMP"],
+  "enforce_with_iptables": false
+}
