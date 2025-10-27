@@ -1,11 +1,11 @@
-# 🔥 Personal Firewall using Python
+# Personal Firewall using Python
 
 A lightweight, CLI-based personal firewall built using **Python** and **Scapy**.  
 It monitors, filters, and logs incoming and outgoing packets based on configurable rules defined in a JSON file.
 
 ---
 
-## ⚙️ Features
+## Features
 - Sniffs packets in real-time using Scapy  
 - Blocks traffic based on IP, port, or protocol  
 - Displays live console logs of ALLOWED/BLOCKED packets  
@@ -14,7 +14,7 @@ It monitors, filters, and logs incoming and outgoing packets based on configurab
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - Python 3  
 - Scapy  
 - JSON  
@@ -22,7 +22,7 @@ It monitors, filters, and logs incoming and outgoing packets based on configurab
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip -y
